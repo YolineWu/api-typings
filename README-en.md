@@ -14,7 +14,7 @@ Type definitions for APIs of Wechat Mini Program in TypeScript
 ### By standalone npm package
 
 ```bash
-npm install miniprogram-api-typings
+npm install --save-dev miniprogram-api-typings
 ```
 
 Manually import it after installed:
@@ -34,7 +34,7 @@ or:
 ### By DefinitelyTyped
 
 ```bash
-npm install @types/wechat-miniprogram
+npm install --save-dev @types/wechat-miniprogram
 ```
 
 ## Changelog
