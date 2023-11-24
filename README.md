@@ -14,7 +14,7 @@
 ### 通过独立 npm 包
 
 ```bash
-npm install miniprogram-api-typings
+npm install --save-dev miniprogram-api-typings
 ```
 
 安装后手动导入：
@@ -34,7 +34,7 @@ npm install miniprogram-api-typings
 ### 通过 DefinitelyTyped
 
 ```bash
-npm install @types/wechat-miniprogram
+npm install --save-dev @types/wechat-miniprogram
 ```
 
 ## 更新日志
